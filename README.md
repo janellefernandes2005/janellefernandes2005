@@ -1,12 +1,13 @@
-<!-- Header Banner with Native Smooth Animation -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Janelle%20Fernandes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Full%20Stack%20%26%20App%20Developer&descAlignY=58&descSize=18" />
-</p>
-
-<!-- Fast-Cycling Animated Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Turning+raw+data+into+actionable+insights;Building+scalable+web+%26+mobile+apps;Bridging+logic%2C+data+%26+clean+design;Engineering+solutions+that+actually+matter" alt="Typing SVG" />
-</p>
+<!-- Clean Animated Header -->
+<div align="center">
+  <h1>Hi, I'm Janelle 👋</h1>
+  <h3>Data Analyst & Full-Stack Developer</h3>
+  
+  <!-- Smooth Typing SVG with Safe Width & Safe Characters -->
+  <a href="https://github.com/janellefernandes2005">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&height=50&lines=Turning+raw+data+into+actionable+insights;Building+scalable+web+and+mobile+apps;Bridging+logic%2C+data+and+clean+design;Engineering+solutions+that+actually+matter" alt="Typing SVG" />
+  </a>
+</div>
 
 <!-- Social & Status Badges -->
 <p align="center">
@@ -19,7 +20,7 @@
   <a href="https://github.com/janellefernandes2005" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge" />
 </p>
 
 <br/>
@@ -97,7 +98,6 @@
 
 ---
 
-<!-- Animated Footer Wave -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer&text=Turning%20Complexity%20into%20Clarity&fontSize=20&fontColor=ffffff&fontAlignY=68" />
+  <i>📈 Driven by curiosity, structured by data.</i>
 </p>
