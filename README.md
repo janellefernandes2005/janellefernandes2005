@@ -1,103 +1,61 @@
-<!-- Clean Animated Header -->
-<div align="center">
-  <h1>Hi, I'm Janelle 👋</h1>
-  <h3>Data Analyst & Full-Stack Developer</h3>
-  
-  <!-- Smooth Typing SVG with Safe Width & Safe Characters -->
-  <a href="https://github.com/janellefernandes2005">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&height=50&lines=Turning+raw+data+into+actionable+insights;Building+scalable+web+and+mobile+apps;Bridging+logic%2C+data+and+clean+design;Engineering+solutions+that+actually+matter" alt="Typing SVG" />
-  </a>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=180&section=header&text=Janelle%20Fernandes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final%20Year%20IT%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55&descSize=18" />
 
-<!-- Social & Status Badges -->
+<h1 align="center">Hi, I'm Janelle 👋</h1>
+
+<h3 align="center">Final Year IT Student · Data Analyst Enthusiast</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/janellefernandes2005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+real+insights;IT+student+%7C+aspiring+Data+Analyst;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
-<br/>
-
-<!-- Modern Highlight Cards -->
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>⚡ About Me</h3>
-      <p>
-        Final-year <b>Information Technology Engineering</b> student focused on <b>Data Analytics</b> and <b>Full-Stack Product Engineering</b>. Passionate about uncovering hidden narratives in raw datasets and architecting clean, scalable applications.
-      </p>
-      <ul>
-        <li>📊 <b>Data Focus:</b> Building dashboards, ETL pipelines, and exploratory models using SQL & Python.</li>
-        <li>💻 <b>Core Engineering:</b> Developing cross-platform mobile apps with Flutter and web platforms with modern stacks.</li>
-        <li>🧠 <b>CS Foundations:</b> Strong roots in Data Structures, OOP (C++), and algorithmic problem solving.</li>
-      </ul>
-    </td>
-    <td width="42%" valign="top">
-      <h3>🎯 Quick Snapshot</h3>
-      <p>🎓 <b>Degree:</b> B.E. in Information Technology</p>
-      <p>📍 <b>Domain:</b> Data Analytics & Software Engineering</p>
-      <p>⚡ <b>Toolkit:</b> Python, SQL, Flutter, Power BI, MERN</p>
-      <p>💬 <b>Ask Me About:</b> Data Storytelling, UI/UX, & Algorithms</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Arsenal
-
-<br/>
-
-**📈 Data Analytics, BI & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-**💻 Full-Stack & Mobile Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**⚙️ Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/janellefernandes2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### 📌 Featured Implementations
+### 🎯 About Me
 
-| Project | Domain | Architecture & Highlights | Tech Stack |
-|:---|:---:|:---|:---|
-| **[knowledge-assistant](https://github.com/janellefernandes2005/knowledge-assistant)** | `Web Assistant` | Interactive assistant designed for contextual query retrieval. | `HTML5` `JS` `CSS3` |
-| **[squid-game-gallery](https://github.com/janellefernandes2005/squid-game-gallery)** | `Frontend UI` | Dynamic interactive showcase featuring responsive event handling. | `JavaScript` `DOM` `CSS3` |
-| **[tool-rental-system](https://github.com/janellefernandes2005/tool-rental-system)** | `Management` | Full-cycle tool rental workflow and inventory tracking system. | `HTML` `Web Stack` |
-| **[to-do-caricature](https://github.com/janellefernandes2005/to-do-caricature)** | `Core CLI` | High-efficiency task execution engine built with structured C++ OOP. | `C++` `DSA` |
+- 🎓 I'm currently in my **final year of IT**, wrapping up my degree
+- 📊 Deep-diving into **data analysis** — I like finding the story hidden in messy data
+- 🧠 Comfortable across the stack: from **C++ fundamentals** to **web apps** to **data tools**
+- 🌱 Currently sharpening my skills in **SQL, Python, Power BI/Excel**, and data visualization
+- 💬 Ask me about: web development, data structures, or how to make a boring dataset interesting
+- ⚡ Fun fact: I named a repo `to-do-caricature` — clearly productivity apps deserve some fun too
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [knowledge-assistant](https://github.com/janellefernandes2005/knowledge-assistant) | A knowledge/info assistant built to answer queries | HTML |
+| [squid-game-gallery](https://github.com/janellefernandes2005/squid-game-gallery) | Interactive themed gallery project | JavaScript |
+| [tool-rental-system](https://github.com/janellefernandes2005/tool-rental-system) | A system for managing tool rentals | HTML |
+| [to-do-caricature](https://github.com/janellefernandes2005/to-do-caricature) | A to-do list app with a fun twist | C++ |
 
 ---
 
 <p align="center">
-  <i>📈 Driven by curiosity, structured by data.</i>
+  <i>📈 Currently exploring how data tells stories that numbers alone can't.</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=100&section=footer" />
